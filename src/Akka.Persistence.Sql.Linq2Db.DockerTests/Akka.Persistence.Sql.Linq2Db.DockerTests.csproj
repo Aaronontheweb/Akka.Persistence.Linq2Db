@@ -18,7 +18,7 @@
         <PackageReference Include="Akka.Persistence.TCK" Version="1.4.21" />
         <PackageReference Include="Akka.Persistence.TestKit" Version="1.4.21" />
         <PackageReference Include="Akka.Serialization.Hyperion" Version="1.4.21" />
-        <PackageReference Include="Docker.DotNet" Version="3.125.4" />
+        <PackageReference Include="Docker.DotNet" Version="3.125.12" />
         <PackageReference Include="Hyperion" Version="0.10.1" />
         <PackageReference Include="JetBrains.dotMemoryUnit" Version="3.1.20200127.214830" />
         <PackageReference Include="Microsoft.Data.Sqlite" Version="5.0.7" />
